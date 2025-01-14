@@ -1,3 +1,3 @@
 def calculate():
-    print('Updated main branch calculator')
+    print('Merged calculator function')
     return 2
