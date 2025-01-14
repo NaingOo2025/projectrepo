@@ -1,3 +1,3 @@
 def calculate():
-    print('main branch calculator')
-    return 0
+    print('Updated main branch calculator')
+    return 2
